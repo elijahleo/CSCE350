@@ -1,4 +1,3 @@
-<!--
 To compile each program, go into the corresponding folder and run "make all"
 "input.txt" file should be placed in the corresponding problem's folder
 For example, if testing Problem 1, "input.txt" should be in the "network" folder
@@ -70,7 +69,6 @@ Problem 5
 2.433 0 inf inf
 inf 7.8102 0 1
 6.86 inf inf 0
---!>
 
 # Project Directory Structure
 csce350/
