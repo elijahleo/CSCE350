@@ -71,6 +71,7 @@ inf 7.8102 0 1
 6.86 inf inf 0
 
 # Project Directory Structure
+```plaintext
 csce350/
 +-- floyd/
 | +-- floyd.cc
@@ -100,3 +101,4 @@ csce350/
 | +-- helper_functions.h
 | +-- Makefile
 | +-- sort.cc
+```
